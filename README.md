@@ -11,7 +11,7 @@ The possible outcomes are:
 * Paper covers rock.
 * If there’s a tie, then the game ends in a draw.
 
-Our code will break the game into four parts:
+This code will break the game into four parts:
 
 1. Get the user’s choice.
 2. Get the computer’s choice.
